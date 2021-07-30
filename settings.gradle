@@ -1,0 +1,3 @@
+rootProject.name = "Vishnukant"
+include ':app'
+include ':mylibrary'
